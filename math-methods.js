@@ -1,3 +1,5 @@
+// Huiswerk String Methods Koos Dorssers
+//
 /* Opdracht 0: voorbeeld */
 // Log het cijfer PI in de terminal
 // ---- Verwachte uitkomst: 3.141592653589793

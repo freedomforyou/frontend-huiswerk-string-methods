@@ -1,3 +1,5 @@
+// Huiswerk String Methods Koos Dorssers
+//
 /* Opdracht 0: voorbeeld */
 // Verwijder het laatste item van onderstaande array en log dit in de terminal
 // Log daarna de originele array om te kijken of deze waarde ook echt verwijderd is en de array nu korter is geworden

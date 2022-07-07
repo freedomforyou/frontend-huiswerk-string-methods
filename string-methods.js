@@ -1,3 +1,5 @@
+// Huiswerk String Methods Koos Dorssers
+//
 /* Opdracht 0: voorbeeld */
 // Check de lengte van onderstaande string en log dit in de terminal
 // ---- Verwachte uitkomst: 10
