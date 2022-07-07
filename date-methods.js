@@ -1,3 +1,5 @@
+// Huiswerk String Methods Koos Dorssers
+//
 /* Opdracht 0: voorbeeld */
 // Maak een nieuw date-object aan voor dit huidige moment en log dit in de terminal
 // ---- Verwachte uitkomst: 2021-04-06T14:54:34.062Z (afhankelijk van het moment)
